@@ -1,4 +1,4 @@
-## TP 11 - écoconception java
+## TP - écoconception java
 
 ## Code a améliorer
 
