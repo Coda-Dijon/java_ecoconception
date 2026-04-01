@@ -56,7 +56,7 @@ public class BenchmarkRunner {
     public void foo() {
 
         for (double angle : angles) {
-            Caching.compute_ad_hoc_double( angle);
+            Caching.compute_factored_cached_double( angle);
         }
 
     }
